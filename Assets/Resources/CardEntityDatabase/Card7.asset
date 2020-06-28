@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e394bb5c04421a42b3d9197de6e9076, type: 3}
+  m_Name: Card7
+  m_EditorClassIdentifier: 
+  id: 7
+  type: 1
+  color: 0
+  cardName: Healing Totem
+  description: <b>Heals 1 HP for every friendly units on field at the beginning of
+    the player's turn.</b>
+  illust: {fileID: 0}
+  cost: 3
+  ATK: 0
+  HP: 5
+  abilities: 
+  skills:
+  - skillType: 1
+    skillTiming: 1
+    amount: 1
+    skillObject: 8
+    numOfObjectives: 0

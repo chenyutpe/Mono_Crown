@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e394bb5c04421a42b3d9197de6e9076, type: 3}
+  m_Name: Card8
+  m_EditorClassIdentifier: 
+  id: 8
+  type: 0
+  color: 0
+  cardName: Mountain Guardian
+  description: A huge guardian of the mountain
+  illust: {fileID: 0}
+  cost: 8
+  ATK: 6
+  HP: 12
+  abilities: 
+  skills: []
